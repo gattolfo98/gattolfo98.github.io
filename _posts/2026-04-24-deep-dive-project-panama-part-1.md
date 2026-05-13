@@ -1,5 +1,6 @@
 ---
 title: "A Deep Dive into Project Panama — Part 1: A first introduction"
+author: gattolfo
 date: 2025-05-13 17:00:00 +0200
 categories: [Java, Project Panama]
 tags: [java, jvm, ffi, native, memory, panama, jni]
